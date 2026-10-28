@@ -1,0 +1,1 @@
+Escribir un script en Power Shell que obtenga la versión de Power Shell, su configuración permisividad, la información relacionada a la edición del sistema operativo y complementar con el comando adecuado del símbolo del sistema para toda la información de la PC.
